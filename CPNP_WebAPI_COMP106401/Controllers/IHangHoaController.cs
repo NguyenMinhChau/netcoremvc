@@ -1,5 +1,6 @@
 ﻿using CPNP_WebAPI_COMP106401.Models;
 using CPNP_WebAPI_COMP106401.Services;
+using Microsoft.AspNetCore.Authorization;
 using Microsoft.AspNetCore.Mvc;
 using System;
 
@@ -50,6 +51,7 @@ namespace CPNP_WebAPI_COMP106401.Controllers
             }
         }
         [HttpPut("{id}")]
+        [Authorize] //Đăng nhập mới cho chỉnh sửa
         public IActionResult UpdateById(string id, HangHoaModel hh)
         {
             if (Guid.Parse(id) != hh.MaHH)
@@ -68,6 +70,7 @@ namespace CPNP_WebAPI_COMP106401.Controllers
             }
         }
         [HttpDelete("{id}")]
+        [Authorize] //Đăng nhập mới cho xóa
         public IActionResult DeleteById(string id)
         {
             try
@@ -82,6 +85,7 @@ namespace CPNP_WebAPI_COMP106401.Controllers
             }
         }
         [HttpPost]
+        [Authorize] //Đăng nhập mới cho tạo mới
         public IActionResult CreateNew(IHangHoaModel hh)
         {
             try

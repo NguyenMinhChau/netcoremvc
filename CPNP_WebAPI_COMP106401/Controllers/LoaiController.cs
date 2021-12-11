@@ -65,6 +65,7 @@ namespace CPNP_WebAPI_COMP106401.Controllers
             }
         }
         [HttpPut("{id}")]
+        [Authorize] //Đăng nhập mới cho chỉnh sửa
         public IActionResult UpdateById(int id, LoaiModel model)
         {
             var loai = _context.Loais.SingleOrDefault(l => l.MaLoai == id);
@@ -80,6 +81,7 @@ namespace CPNP_WebAPI_COMP106401.Controllers
             }
         }
         [HttpDelete("{id}")]
+        [Authorize] //Đăng nhập mới cho xóa
         public IActionResult DeleteLoai(int id)
         {
             try

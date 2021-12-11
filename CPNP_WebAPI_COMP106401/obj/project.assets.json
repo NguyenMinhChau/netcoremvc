@@ -5560,11 +5560,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\NGUYEN MINH CHAU\\source\\repos\\CPNP_WebAPI_COMP106401\\CPNP_WebAPI_COMP106401\\CPNP_WebAPI_COMP106401.csproj",
+      "projectUniqueName": "E:\\Workspace\\Công Nghệ NET\\CPNP_WebAPI_COMP106401\\CPNP_WebAPI_COMP106401\\CPNP_WebAPI_COMP106401.csproj",
       "projectName": "CPNP_WebAPI_COMP106401",
-      "projectPath": "C:\\Users\\NGUYEN MINH CHAU\\source\\repos\\CPNP_WebAPI_COMP106401\\CPNP_WebAPI_COMP106401\\CPNP_WebAPI_COMP106401.csproj",
+      "projectPath": "E:\\Workspace\\Công Nghệ NET\\CPNP_WebAPI_COMP106401\\CPNP_WebAPI_COMP106401\\CPNP_WebAPI_COMP106401.csproj",
       "packagesPath": "C:\\Users\\NGUYEN MINH CHAU\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\NGUYEN MINH CHAU\\source\\repos\\CPNP_WebAPI_COMP106401\\CPNP_WebAPI_COMP106401\\obj\\",
+      "outputPath": "E:\\Workspace\\Công Nghệ NET\\CPNP_WebAPI_COMP106401\\CPNP_WebAPI_COMP106401\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

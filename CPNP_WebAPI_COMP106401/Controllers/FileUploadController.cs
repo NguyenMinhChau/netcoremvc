@@ -1,4 +1,5 @@
 ﻿using CPNP_WebAPI_COMP106401.Models;
+using Microsoft.AspNetCore.Authorization;
 using Microsoft.AspNetCore.Hosting;
 using Microsoft.AspNetCore.Http;
 using Microsoft.AspNetCore.Mvc;
@@ -20,6 +21,7 @@ namespace CPNP_WebAPI_COMP106401.Controllers
             _environment = environment;
         }
         [HttpPost]
+        [Authorize] //Đăng nhập mới cho tạo mới
         public async Task<string> Post([FromForm] FileUpload objfile)
         {
             if(objfile.files.Length > 0)

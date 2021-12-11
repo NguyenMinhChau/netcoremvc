@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "cPrF3f6TcNVBKxET64A3QL/wDzfNz365zIc4S/+WZzUc4bX/AQSfjewyYFNemwlvqEy/Ux8s/ypkJVCRg2C6Qw==",
+  "dgSpecHash": "b8tqCTMmDH5vZJcZyIuXojsePe2SZl+EhPLTcaiXqQAu/iu1b5cWHrbI0Xx90rAvjp5fQECdJjvYdaRUoG6gYQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\NGUYEN MINH CHAU\\source\\repos\\CPNP_WebAPI_COMP106401\\CPNP_WebAPI_COMP106401\\CPNP_WebAPI_COMP106401.csproj",
+  "projectFilePath": "E:\\Workspace\\Công Nghệ NET\\CPNP_WebAPI_COMP106401\\CPNP_WebAPI_COMP106401\\CPNP_WebAPI_COMP106401.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\NGUYEN MINH CHAU\\.nuget\\packages\\humanizer.core\\2.8.26\\humanizer.core.2.8.26.nupkg.sha512",
     "C:\\Users\\NGUYEN MINH CHAU\\.nuget\\packages\\microsoft.aspnetcore.authentication.jwtbearer\\5.0.10\\microsoft.aspnetcore.authentication.jwtbearer.5.0.10.nupkg.sha512",
