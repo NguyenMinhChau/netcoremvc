@@ -1,0 +1,341 @@
+E:\Workspace\Công Nghệ NET\Cuối kì\source01\source01\bin\source01.dll.config
+E:\Workspace\Công Nghệ NET\Cuối kì\source01\source01\bin\source01.dll
+E:\Workspace\Công Nghệ NET\Cuối kì\source01\source01\bin\source01.pdb
+E:\Workspace\Công Nghệ NET\Cuối kì\source01\source01\bin\roslyn\csc.exe
+E:\Workspace\Công Nghệ NET\Cuối kì\source01\source01\bin\roslyn\csc.exe.config
+E:\Workspace\Công Nghệ NET\Cuối kì\source01\source01\bin\roslyn\csc.rsp
+E:\Workspace\Công Nghệ NET\Cuối kì\source01\source01\bin\roslyn\csi.exe
+E:\Workspace\Công Nghệ NET\Cuối kì\source01\source01\bin\roslyn\csi.exe.config
+E:\Workspace\Công Nghệ NET\Cuối kì\source01\source01\bin\roslyn\csi.rsp
+E:\Workspace\Công Nghệ NET\Cuối kì\source01\source01\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+E:\Workspace\Công Nghệ NET\Cuối kì\source01\source01\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+E:\Workspace\Công Nghệ NET\Cuối kì\source01\source01\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+E:\Workspace\Công Nghệ NET\Cuối kì\source01\source01\bin\roslyn\Microsoft.CodeAnalysis.dll
+E:\Workspace\Công Nghệ NET\Cuối kì\source01\source01\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+E:\Workspace\Công Nghệ NET\Cuối kì\source01\source01\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\Workspace\Công Nghệ NET\Cuối kì\source01\source01\bin\roslyn\Microsoft.CSharp.Core.targets
+E:\Workspace\Công Nghệ NET\Cuối kì\source01\source01\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+E:\Workspace\Công Nghệ NET\Cuối kì\source01\source01\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+E:\Workspace\Công Nghệ NET\Cuối kì\source01\source01\bin\roslyn\Microsoft.Managed.Core.targets
+E:\Workspace\Công Nghệ NET\Cuối kì\source01\source01\bin\roslyn\Microsoft.VisualBasic.Core.targets
+E:\Workspace\Công Nghệ NET\Cuối kì\source01\source01\bin\roslyn\System.Buffers.dll
+E:\Workspace\Công Nghệ NET\Cuối kì\source01\source01\bin\roslyn\System.Collections.Immutable.dll
+E:\Workspace\Công Nghệ NET\Cuối kì\source01\source01\bin\roslyn\System.Memory.dll
+E:\Workspace\Công Nghệ NET\Cuối kì\source01\source01\bin\roslyn\System.Numerics.Vectors.dll
+E:\Workspace\Công Nghệ NET\Cuối kì\source01\source01\bin\roslyn\System.Reflection.Metadata.dll
+E:\Workspace\Công Nghệ NET\Cuối kì\source01\source01\bin\roslyn\System.Runtime.CompilerServices.Unsafe.dll
+E:\Workspace\Công Nghệ NET\Cuối kì\source01\source01\bin\roslyn\System.Text.Encoding.CodePages.dll
+E:\Workspace\Công Nghệ NET\Cuối kì\source01\source01\bin\roslyn\System.Threading.Tasks.Extensions.dll
+E:\Workspace\Công Nghệ NET\Cuối kì\source01\source01\bin\roslyn\vbc.exe
+E:\Workspace\Công Nghệ NET\Cuối kì\source01\source01\bin\roslyn\vbc.exe.config
+E:\Workspace\Công Nghệ NET\Cuối kì\source01\source01\bin\roslyn\vbc.rsp
+E:\Workspace\Công Nghệ NET\Cuối kì\source01\source01\bin\roslyn\VBCSCompiler.exe
+E:\Workspace\Công Nghệ NET\Cuối kì\source01\source01\bin\roslyn\VBCSCompiler.exe.config
+E:\Workspace\Công Nghệ NET\Cuối kì\source01\source01\bin\Antlr3.Runtime.dll
+E:\Workspace\Công Nghệ NET\Cuối kì\source01\source01\bin\BotDetect.dll
+E:\Workspace\Công Nghệ NET\Cuối kì\source01\source01\bin\BotDetect.Web.Mvc.dll
+E:\Workspace\Công Nghệ NET\Cuối kì\source01\source01\bin\EntityFramework.dll
+E:\Workspace\Công Nghệ NET\Cuối kì\source01\source01\bin\EntityFramework.SqlServer.dll
+E:\Workspace\Công Nghệ NET\Cuối kì\source01\source01\bin\Facebook.dll
+E:\Workspace\Công Nghệ NET\Cuối kì\source01\source01\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\Workspace\Công Nghệ NET\Cuối kì\source01\source01\bin\Microsoft.Web.Infrastructure.dll
+E:\Workspace\Công Nghệ NET\Cuối kì\source01\source01\bin\Newtonsoft.Json.dll
+E:\Workspace\Công Nghệ NET\Cuối kì\source01\source01\bin\PagedList.dll
+E:\Workspace\Công Nghệ NET\Cuối kì\source01\source01\bin\PagedList.Mvc.dll
+E:\Workspace\Công Nghệ NET\Cuối kì\source01\source01\bin\System.Data.SQLite.dll
+E:\Workspace\Công Nghệ NET\Cuối kì\source01\source01\bin\System.Web.Helpers.dll
+E:\Workspace\Công Nghệ NET\Cuối kì\source01\source01\bin\System.Web.Mvc.dll
+E:\Workspace\Công Nghệ NET\Cuối kì\source01\source01\bin\System.Web.Optimization.dll
+E:\Workspace\Công Nghệ NET\Cuối kì\source01\source01\bin\System.Web.Razor.dll
+E:\Workspace\Công Nghệ NET\Cuối kì\source01\source01\bin\System.Web.WebPages.Deployment.dll
+E:\Workspace\Công Nghệ NET\Cuối kì\source01\source01\bin\System.Web.WebPages.dll
+E:\Workspace\Công Nghệ NET\Cuối kì\source01\source01\bin\System.Web.WebPages.Razor.dll
+E:\Workspace\Công Nghệ NET\Cuối kì\source01\source01\bin\WebGrease.dll
+E:\Workspace\Công Nghệ NET\Cuối kì\source01\source01\bin\EntityFramework.xml
+E:\Workspace\Công Nghệ NET\Cuối kì\source01\source01\bin\EntityFramework.SqlServer.xml
+E:\Workspace\Công Nghệ NET\Cuối kì\source01\source01\bin\Facebook.xml
+E:\Workspace\Công Nghệ NET\Cuối kì\source01\source01\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\Workspace\Công Nghệ NET\Cuối kì\source01\source01\bin\Newtonsoft.Json.xml
+E:\Workspace\Công Nghệ NET\Cuối kì\source01\source01\bin\PagedList.xml
+E:\Workspace\Công Nghệ NET\Cuối kì\source01\source01\bin\PagedList.Mvc.xml
+E:\Workspace\Công Nghệ NET\Cuối kì\source01\source01\bin\System.Data.SQLite.xml
+E:\Workspace\Công Nghệ NET\Cuối kì\source01\source01\bin\System.Web.Helpers.xml
+E:\Workspace\Công Nghệ NET\Cuối kì\source01\source01\bin\System.Web.Mvc.xml
+E:\Workspace\Công Nghệ NET\Cuối kì\source01\source01\bin\System.Web.Optimization.xml
+E:\Workspace\Công Nghệ NET\Cuối kì\source01\source01\bin\System.Web.Razor.xml
+E:\Workspace\Công Nghệ NET\Cuối kì\source01\source01\bin\System.Web.WebPages.xml
+E:\Workspace\Công Nghệ NET\Cuối kì\source01\source01\bin\System.Web.WebPages.Deployment.xml
+E:\Workspace\Công Nghệ NET\Cuối kì\source01\source01\bin\System.Web.WebPages.Razor.xml
+E:\Workspace\Công Nghệ NET\Cuối kì\source01\source01\bin\Antlr3.Runtime.pdb
+E:\Workspace\Công Nghệ NET\Cuối kì\source01\source01\obj\Release\CuoiKi.csproj.AssemblyReference.cache
+E:\Workspace\Công Nghệ NET\Cuối kì\source01\source01\obj\Release\CuoiKi.csproj.CoreCompileInputs.cache
+E:\Workspace\Công Nghệ NET\Cuối kì\source01\source01\obj\Release\source01.dll
+E:\Workspace\Công Nghệ NET\Cuối kì\source01\source01\obj\Release\source01.pdb
+E:\Workspace\Công Nghệ NET\source_CN.NET\CuoiKi\source01\source01\bin\source01.dll.config
+E:\Workspace\Công Nghệ NET\source_CN.NET\CuoiKi\source01\source01\bin\source01.dll
+E:\Workspace\Công Nghệ NET\source_CN.NET\CuoiKi\source01\source01\bin\source01.pdb
+E:\Workspace\Công Nghệ NET\source_CN.NET\CuoiKi\source01\source01\bin\roslyn\csc.exe
+E:\Workspace\Công Nghệ NET\source_CN.NET\CuoiKi\source01\source01\bin\roslyn\csc.exe.config
+E:\Workspace\Công Nghệ NET\source_CN.NET\CuoiKi\source01\source01\bin\roslyn\csc.rsp
+E:\Workspace\Công Nghệ NET\source_CN.NET\CuoiKi\source01\source01\bin\roslyn\csi.exe
+E:\Workspace\Công Nghệ NET\source_CN.NET\CuoiKi\source01\source01\bin\roslyn\csi.exe.config
+E:\Workspace\Công Nghệ NET\source_CN.NET\CuoiKi\source01\source01\bin\roslyn\csi.rsp
+E:\Workspace\Công Nghệ NET\source_CN.NET\CuoiKi\source01\source01\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+E:\Workspace\Công Nghệ NET\source_CN.NET\CuoiKi\source01\source01\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+E:\Workspace\Công Nghệ NET\source_CN.NET\CuoiKi\source01\source01\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+E:\Workspace\Công Nghệ NET\source_CN.NET\CuoiKi\source01\source01\bin\roslyn\Microsoft.CodeAnalysis.dll
+E:\Workspace\Công Nghệ NET\source_CN.NET\CuoiKi\source01\source01\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+E:\Workspace\Công Nghệ NET\source_CN.NET\CuoiKi\source01\source01\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\Workspace\Công Nghệ NET\source_CN.NET\CuoiKi\source01\source01\bin\roslyn\Microsoft.CSharp.Core.targets
+E:\Workspace\Công Nghệ NET\source_CN.NET\CuoiKi\source01\source01\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+E:\Workspace\Công Nghệ NET\source_CN.NET\CuoiKi\source01\source01\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+E:\Workspace\Công Nghệ NET\source_CN.NET\CuoiKi\source01\source01\bin\roslyn\Microsoft.Managed.Core.targets
+E:\Workspace\Công Nghệ NET\source_CN.NET\CuoiKi\source01\source01\bin\roslyn\Microsoft.VisualBasic.Core.targets
+E:\Workspace\Công Nghệ NET\source_CN.NET\CuoiKi\source01\source01\bin\roslyn\System.Buffers.dll
+E:\Workspace\Công Nghệ NET\source_CN.NET\CuoiKi\source01\source01\bin\roslyn\System.Collections.Immutable.dll
+E:\Workspace\Công Nghệ NET\source_CN.NET\CuoiKi\source01\source01\bin\roslyn\System.Memory.dll
+E:\Workspace\Công Nghệ NET\source_CN.NET\CuoiKi\source01\source01\bin\roslyn\System.Numerics.Vectors.dll
+E:\Workspace\Công Nghệ NET\source_CN.NET\CuoiKi\source01\source01\bin\roslyn\System.Reflection.Metadata.dll
+E:\Workspace\Công Nghệ NET\source_CN.NET\CuoiKi\source01\source01\bin\roslyn\System.Runtime.CompilerServices.Unsafe.dll
+E:\Workspace\Công Nghệ NET\source_CN.NET\CuoiKi\source01\source01\bin\roslyn\System.Text.Encoding.CodePages.dll
+E:\Workspace\Công Nghệ NET\source_CN.NET\CuoiKi\source01\source01\bin\roslyn\System.Threading.Tasks.Extensions.dll
+E:\Workspace\Công Nghệ NET\source_CN.NET\CuoiKi\source01\source01\bin\roslyn\vbc.exe
+E:\Workspace\Công Nghệ NET\source_CN.NET\CuoiKi\source01\source01\bin\roslyn\vbc.exe.config
+E:\Workspace\Công Nghệ NET\source_CN.NET\CuoiKi\source01\source01\bin\roslyn\vbc.rsp
+E:\Workspace\Công Nghệ NET\source_CN.NET\CuoiKi\source01\source01\bin\roslyn\VBCSCompiler.exe
+E:\Workspace\Công Nghệ NET\source_CN.NET\CuoiKi\source01\source01\bin\roslyn\VBCSCompiler.exe.config
+E:\Workspace\Công Nghệ NET\source_CN.NET\CuoiKi\source01\source01\bin\Antlr3.Runtime.dll
+E:\Workspace\Công Nghệ NET\source_CN.NET\CuoiKi\source01\source01\bin\BotDetect.dll
+E:\Workspace\Công Nghệ NET\source_CN.NET\CuoiKi\source01\source01\bin\BotDetect.Web.Mvc.dll
+E:\Workspace\Công Nghệ NET\source_CN.NET\CuoiKi\source01\source01\bin\EntityFramework.dll
+E:\Workspace\Công Nghệ NET\source_CN.NET\CuoiKi\source01\source01\bin\EntityFramework.SqlServer.dll
+E:\Workspace\Công Nghệ NET\source_CN.NET\CuoiKi\source01\source01\bin\Facebook.dll
+E:\Workspace\Công Nghệ NET\source_CN.NET\CuoiKi\source01\source01\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\Workspace\Công Nghệ NET\source_CN.NET\CuoiKi\source01\source01\bin\Microsoft.Web.Infrastructure.dll
+E:\Workspace\Công Nghệ NET\source_CN.NET\CuoiKi\source01\source01\bin\Newtonsoft.Json.dll
+E:\Workspace\Công Nghệ NET\source_CN.NET\CuoiKi\source01\source01\bin\PagedList.dll
+E:\Workspace\Công Nghệ NET\source_CN.NET\CuoiKi\source01\source01\bin\PagedList.Mvc.dll
+E:\Workspace\Công Nghệ NET\source_CN.NET\CuoiKi\source01\source01\bin\System.Data.SQLite.dll
+E:\Workspace\Công Nghệ NET\source_CN.NET\CuoiKi\source01\source01\bin\System.Web.Helpers.dll
+E:\Workspace\Công Nghệ NET\source_CN.NET\CuoiKi\source01\source01\bin\System.Web.Mvc.dll
+E:\Workspace\Công Nghệ NET\source_CN.NET\CuoiKi\source01\source01\bin\System.Web.Optimization.dll
+E:\Workspace\Công Nghệ NET\source_CN.NET\CuoiKi\source01\source01\bin\System.Web.Razor.dll
+E:\Workspace\Công Nghệ NET\source_CN.NET\CuoiKi\source01\source01\bin\System.Web.WebPages.Deployment.dll
+E:\Workspace\Công Nghệ NET\source_CN.NET\CuoiKi\source01\source01\bin\System.Web.WebPages.dll
+E:\Workspace\Công Nghệ NET\source_CN.NET\CuoiKi\source01\source01\bin\System.Web.WebPages.Razor.dll
+E:\Workspace\Công Nghệ NET\source_CN.NET\CuoiKi\source01\source01\bin\WebGrease.dll
+E:\Workspace\Công Nghệ NET\source_CN.NET\CuoiKi\source01\source01\bin\EntityFramework.xml
+E:\Workspace\Công Nghệ NET\source_CN.NET\CuoiKi\source01\source01\bin\EntityFramework.SqlServer.xml
+E:\Workspace\Công Nghệ NET\source_CN.NET\CuoiKi\source01\source01\bin\Facebook.xml
+E:\Workspace\Công Nghệ NET\source_CN.NET\CuoiKi\source01\source01\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\Workspace\Công Nghệ NET\source_CN.NET\CuoiKi\source01\source01\bin\Newtonsoft.Json.xml
+E:\Workspace\Công Nghệ NET\source_CN.NET\CuoiKi\source01\source01\bin\PagedList.xml
+E:\Workspace\Công Nghệ NET\source_CN.NET\CuoiKi\source01\source01\bin\PagedList.Mvc.xml
+E:\Workspace\Công Nghệ NET\source_CN.NET\CuoiKi\source01\source01\bin\System.Data.SQLite.xml
+E:\Workspace\Công Nghệ NET\source_CN.NET\CuoiKi\source01\source01\bin\System.Web.Helpers.xml
+E:\Workspace\Công Nghệ NET\source_CN.NET\CuoiKi\source01\source01\bin\System.Web.Mvc.xml
+E:\Workspace\Công Nghệ NET\source_CN.NET\CuoiKi\source01\source01\bin\System.Web.Optimization.xml
+E:\Workspace\Công Nghệ NET\source_CN.NET\CuoiKi\source01\source01\bin\System.Web.Razor.xml
+E:\Workspace\Công Nghệ NET\source_CN.NET\CuoiKi\source01\source01\bin\System.Web.WebPages.xml
+E:\Workspace\Công Nghệ NET\source_CN.NET\CuoiKi\source01\source01\bin\System.Web.WebPages.Deployment.xml
+E:\Workspace\Công Nghệ NET\source_CN.NET\CuoiKi\source01\source01\bin\System.Web.WebPages.Razor.xml
+E:\Workspace\Công Nghệ NET\source_CN.NET\CuoiKi\source01\source01\bin\Antlr3.Runtime.pdb
+E:\Workspace\Công Nghệ NET\source_CN.NET\CuoiKi\source01\source01\obj\Release\CuoiKi.csproj.AssemblyReference.cache
+E:\Workspace\Công Nghệ NET\source_CN.NET\CuoiKi\source01\source01\obj\Release\CuoiKi.csproj.CoreCompileInputs.cache
+E:\Workspace\Công Nghệ NET\source_CN.NET\CuoiKi\source01\source01\obj\Release\CuoiKi.csproj.CopyComplete
+E:\Workspace\Công Nghệ NET\source_CN.NET\CuoiKi\source01\source01\obj\Release\source01.dll
+E:\Workspace\Công Nghệ NET\source_CN.NET\CuoiKi\source01\source01\obj\Release\source01.pdb
+E:\Workspace\Công Nghệ NET\source_CN.NET\CuoiKi\CuoiKi\source01\source01\bin\source01.dll.config
+E:\Workspace\Công Nghệ NET\source_CN.NET\CuoiKi\CuoiKi\source01\source01\bin\source01.dll
+E:\Workspace\Công Nghệ NET\source_CN.NET\CuoiKi\CuoiKi\source01\source01\bin\source01.pdb
+E:\Workspace\Công Nghệ NET\source_CN.NET\CuoiKi\CuoiKi\source01\source01\bin\roslyn\csc.exe
+E:\Workspace\Công Nghệ NET\source_CN.NET\CuoiKi\CuoiKi\source01\source01\bin\roslyn\csc.exe.config
+E:\Workspace\Công Nghệ NET\source_CN.NET\CuoiKi\CuoiKi\source01\source01\bin\roslyn\csc.rsp
+E:\Workspace\Công Nghệ NET\source_CN.NET\CuoiKi\CuoiKi\source01\source01\bin\roslyn\csi.exe
+E:\Workspace\Công Nghệ NET\source_CN.NET\CuoiKi\CuoiKi\source01\source01\bin\roslyn\csi.exe.config
+E:\Workspace\Công Nghệ NET\source_CN.NET\CuoiKi\CuoiKi\source01\source01\bin\roslyn\csi.rsp
+E:\Workspace\Công Nghệ NET\source_CN.NET\CuoiKi\CuoiKi\source01\source01\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+E:\Workspace\Công Nghệ NET\source_CN.NET\CuoiKi\CuoiKi\source01\source01\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+E:\Workspace\Công Nghệ NET\source_CN.NET\CuoiKi\CuoiKi\source01\source01\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+E:\Workspace\Công Nghệ NET\source_CN.NET\CuoiKi\CuoiKi\source01\source01\bin\roslyn\Microsoft.CodeAnalysis.dll
+E:\Workspace\Công Nghệ NET\source_CN.NET\CuoiKi\CuoiKi\source01\source01\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+E:\Workspace\Công Nghệ NET\source_CN.NET\CuoiKi\CuoiKi\source01\source01\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\Workspace\Công Nghệ NET\source_CN.NET\CuoiKi\CuoiKi\source01\source01\bin\roslyn\Microsoft.CSharp.Core.targets
+E:\Workspace\Công Nghệ NET\source_CN.NET\CuoiKi\CuoiKi\source01\source01\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+E:\Workspace\Công Nghệ NET\source_CN.NET\CuoiKi\CuoiKi\source01\source01\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+E:\Workspace\Công Nghệ NET\source_CN.NET\CuoiKi\CuoiKi\source01\source01\bin\roslyn\Microsoft.Managed.Core.targets
+E:\Workspace\Công Nghệ NET\source_CN.NET\CuoiKi\CuoiKi\source01\source01\bin\roslyn\Microsoft.VisualBasic.Core.targets
+E:\Workspace\Công Nghệ NET\source_CN.NET\CuoiKi\CuoiKi\source01\source01\bin\roslyn\System.Buffers.dll
+E:\Workspace\Công Nghệ NET\source_CN.NET\CuoiKi\CuoiKi\source01\source01\bin\roslyn\System.Collections.Immutable.dll
+E:\Workspace\Công Nghệ NET\source_CN.NET\CuoiKi\CuoiKi\source01\source01\bin\roslyn\System.Memory.dll
+E:\Workspace\Công Nghệ NET\source_CN.NET\CuoiKi\CuoiKi\source01\source01\bin\roslyn\System.Numerics.Vectors.dll
+E:\Workspace\Công Nghệ NET\source_CN.NET\CuoiKi\CuoiKi\source01\source01\bin\roslyn\System.Reflection.Metadata.dll
+E:\Workspace\Công Nghệ NET\source_CN.NET\CuoiKi\CuoiKi\source01\source01\bin\roslyn\System.Runtime.CompilerServices.Unsafe.dll
+E:\Workspace\Công Nghệ NET\source_CN.NET\CuoiKi\CuoiKi\source01\source01\bin\roslyn\System.Text.Encoding.CodePages.dll
+E:\Workspace\Công Nghệ NET\source_CN.NET\CuoiKi\CuoiKi\source01\source01\bin\roslyn\System.Threading.Tasks.Extensions.dll
+E:\Workspace\Công Nghệ NET\source_CN.NET\CuoiKi\CuoiKi\source01\source01\bin\roslyn\vbc.exe
+E:\Workspace\Công Nghệ NET\source_CN.NET\CuoiKi\CuoiKi\source01\source01\bin\roslyn\vbc.exe.config
+E:\Workspace\Công Nghệ NET\source_CN.NET\CuoiKi\CuoiKi\source01\source01\bin\roslyn\vbc.rsp
+E:\Workspace\Công Nghệ NET\source_CN.NET\CuoiKi\CuoiKi\source01\source01\bin\roslyn\VBCSCompiler.exe
+E:\Workspace\Công Nghệ NET\source_CN.NET\CuoiKi\CuoiKi\source01\source01\bin\roslyn\VBCSCompiler.exe.config
+E:\Workspace\Công Nghệ NET\source_CN.NET\CuoiKi\CuoiKi\source01\source01\bin\Antlr3.Runtime.dll
+E:\Workspace\Công Nghệ NET\source_CN.NET\CuoiKi\CuoiKi\source01\source01\bin\BotDetect.dll
+E:\Workspace\Công Nghệ NET\source_CN.NET\CuoiKi\CuoiKi\source01\source01\bin\BotDetect.Web.Mvc.dll
+E:\Workspace\Công Nghệ NET\source_CN.NET\CuoiKi\CuoiKi\source01\source01\bin\EntityFramework.dll
+E:\Workspace\Công Nghệ NET\source_CN.NET\CuoiKi\CuoiKi\source01\source01\bin\EntityFramework.SqlServer.dll
+E:\Workspace\Công Nghệ NET\source_CN.NET\CuoiKi\CuoiKi\source01\source01\bin\Facebook.dll
+E:\Workspace\Công Nghệ NET\source_CN.NET\CuoiKi\CuoiKi\source01\source01\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\Workspace\Công Nghệ NET\source_CN.NET\CuoiKi\CuoiKi\source01\source01\bin\Microsoft.Web.Infrastructure.dll
+E:\Workspace\Công Nghệ NET\source_CN.NET\CuoiKi\CuoiKi\source01\source01\bin\Newtonsoft.Json.dll
+E:\Workspace\Công Nghệ NET\source_CN.NET\CuoiKi\CuoiKi\source01\source01\bin\PagedList.dll
+E:\Workspace\Công Nghệ NET\source_CN.NET\CuoiKi\CuoiKi\source01\source01\bin\PagedList.Mvc.dll
+E:\Workspace\Công Nghệ NET\source_CN.NET\CuoiKi\CuoiKi\source01\source01\bin\System.Data.SQLite.dll
+E:\Workspace\Công Nghệ NET\source_CN.NET\CuoiKi\CuoiKi\source01\source01\bin\System.Net.Http.Extensions.dll
+E:\Workspace\Công Nghệ NET\source_CN.NET\CuoiKi\CuoiKi\source01\source01\bin\System.Net.Http.Formatting.dll
+E:\Workspace\Công Nghệ NET\source_CN.NET\CuoiKi\CuoiKi\source01\source01\bin\System.Net.Http.Primitives.dll
+E:\Workspace\Công Nghệ NET\source_CN.NET\CuoiKi\CuoiKi\source01\source01\bin\System.Web.Helpers.dll
+E:\Workspace\Công Nghệ NET\source_CN.NET\CuoiKi\CuoiKi\source01\source01\bin\System.Web.Http.dll
+E:\Workspace\Công Nghệ NET\source_CN.NET\CuoiKi\CuoiKi\source01\source01\bin\System.Web.Mvc.dll
+E:\Workspace\Công Nghệ NET\source_CN.NET\CuoiKi\CuoiKi\source01\source01\bin\System.Web.Optimization.dll
+E:\Workspace\Công Nghệ NET\source_CN.NET\CuoiKi\CuoiKi\source01\source01\bin\System.Web.Razor.dll
+E:\Workspace\Công Nghệ NET\source_CN.NET\CuoiKi\CuoiKi\source01\source01\bin\System.Web.WebPages.Deployment.dll
+E:\Workspace\Công Nghệ NET\source_CN.NET\CuoiKi\CuoiKi\source01\source01\bin\System.Web.WebPages.dll
+E:\Workspace\Công Nghệ NET\source_CN.NET\CuoiKi\CuoiKi\source01\source01\bin\System.Web.WebPages.Razor.dll
+E:\Workspace\Công Nghệ NET\source_CN.NET\CuoiKi\CuoiKi\source01\source01\bin\WebGrease.dll
+E:\Workspace\Công Nghệ NET\source_CN.NET\CuoiKi\CuoiKi\source01\source01\bin\EntityFramework.xml
+E:\Workspace\Công Nghệ NET\source_CN.NET\CuoiKi\CuoiKi\source01\source01\bin\EntityFramework.SqlServer.xml
+E:\Workspace\Công Nghệ NET\source_CN.NET\CuoiKi\CuoiKi\source01\source01\bin\Facebook.xml
+E:\Workspace\Công Nghệ NET\source_CN.NET\CuoiKi\CuoiKi\source01\source01\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\Workspace\Công Nghệ NET\source_CN.NET\CuoiKi\CuoiKi\source01\source01\bin\Newtonsoft.Json.xml
+E:\Workspace\Công Nghệ NET\source_CN.NET\CuoiKi\CuoiKi\source01\source01\bin\PagedList.xml
+E:\Workspace\Công Nghệ NET\source_CN.NET\CuoiKi\CuoiKi\source01\source01\bin\PagedList.Mvc.xml
+E:\Workspace\Công Nghệ NET\source_CN.NET\CuoiKi\CuoiKi\source01\source01\bin\System.Data.SQLite.xml
+E:\Workspace\Công Nghệ NET\source_CN.NET\CuoiKi\CuoiKi\source01\source01\bin\System.Net.Http.Extensions.xml
+E:\Workspace\Công Nghệ NET\source_CN.NET\CuoiKi\CuoiKi\source01\source01\bin\System.Net.Http.Formatting.xml
+E:\Workspace\Công Nghệ NET\source_CN.NET\CuoiKi\CuoiKi\source01\source01\bin\System.Net.Http.Primitives.xml
+E:\Workspace\Công Nghệ NET\source_CN.NET\CuoiKi\CuoiKi\source01\source01\bin\System.Web.Http.xml
+E:\Workspace\Công Nghệ NET\source_CN.NET\CuoiKi\CuoiKi\source01\source01\bin\System.Web.Helpers.xml
+E:\Workspace\Công Nghệ NET\source_CN.NET\CuoiKi\CuoiKi\source01\source01\bin\System.Web.Mvc.xml
+E:\Workspace\Công Nghệ NET\source_CN.NET\CuoiKi\CuoiKi\source01\source01\bin\System.Web.Optimization.xml
+E:\Workspace\Công Nghệ NET\source_CN.NET\CuoiKi\CuoiKi\source01\source01\bin\System.Web.Razor.xml
+E:\Workspace\Công Nghệ NET\source_CN.NET\CuoiKi\CuoiKi\source01\source01\bin\System.Web.WebPages.xml
+E:\Workspace\Công Nghệ NET\source_CN.NET\CuoiKi\CuoiKi\source01\source01\bin\System.Web.WebPages.Deployment.xml
+E:\Workspace\Công Nghệ NET\source_CN.NET\CuoiKi\CuoiKi\source01\source01\bin\System.Web.WebPages.Razor.xml
+E:\Workspace\Công Nghệ NET\source_CN.NET\CuoiKi\CuoiKi\source01\source01\bin\Antlr3.Runtime.pdb
+E:\Workspace\Công Nghệ NET\source_CN.NET\CuoiKi\CuoiKi\source01\source01\obj\Release\CuoiKi.csproj.App.config
+E:\Workspace\Công Nghệ NET\source_CN.NET\CuoiKi\CuoiKi\source01\source01\obj\Release\CuoiKi.csproj.AssemblyReference.cache
+E:\Workspace\Công Nghệ NET\source_CN.NET\CuoiKi\CuoiKi\source01\source01\obj\Release\CuoiKi.csproj.CoreCompileInputs.cache
+E:\Workspace\Công Nghệ NET\source_CN.NET\CuoiKi\CuoiKi\source01\source01\obj\Release\CuoiKi.csproj.CopyComplete
+E:\Workspace\Công Nghệ NET\source_CN.NET\CuoiKi\CuoiKi\source01\source01\obj\Release\source01.dll
+E:\Workspace\Công Nghệ NET\source_CN.NET\CuoiKi\CuoiKi\source01\source01\obj\Release\source01.pdb
+E:\Workspace\Công Nghệ NET\source_CN.NET\CuoiKi\CuoiKi\source01\source01\bin\Google.Apis.Auth.AspNetCore.dll
+E:\Workspace\Công Nghệ NET\source_CN.NET\CuoiKi\CuoiKi\source01\source01\bin\Google.Apis.Auth.dll
+E:\Workspace\Công Nghệ NET\source_CN.NET\CuoiKi\CuoiKi\source01\source01\bin\Google.Apis.Auth.PlatformServices.dll
+E:\Workspace\Công Nghệ NET\source_CN.NET\CuoiKi\CuoiKi\source01\source01\bin\Google.Apis.Core.dll
+E:\Workspace\Công Nghệ NET\source_CN.NET\CuoiKi\CuoiKi\source01\source01\bin\Google.Apis.dll
+E:\Workspace\Công Nghệ NET\source_CN.NET\CuoiKi\CuoiKi\source01\source01\bin\Google.Apis.PlatformServices.dll
+E:\Workspace\Công Nghệ NET\source_CN.NET\CuoiKi\CuoiKi\source01\source01\bin\Microsoft.AspNetCore.Authentication.Abstractions.dll
+E:\Workspace\Công Nghệ NET\source_CN.NET\CuoiKi\CuoiKi\source01\source01\bin\Microsoft.AspNetCore.Authentication.Core.dll
+E:\Workspace\Công Nghệ NET\source_CN.NET\CuoiKi\CuoiKi\source01\source01\bin\Microsoft.AspNetCore.Authentication.dll
+E:\Workspace\Công Nghệ NET\source_CN.NET\CuoiKi\CuoiKi\source01\source01\bin\Microsoft.AspNetCore.Authentication.OAuth.dll
+E:\Workspace\Công Nghệ NET\source_CN.NET\CuoiKi\CuoiKi\source01\source01\bin\Microsoft.AspNetCore.Authentication.OpenIdConnect.dll
+E:\Workspace\Công Nghệ NET\source_CN.NET\CuoiKi\CuoiKi\source01\source01\bin\Microsoft.AspNetCore.Authorization.dll
+E:\Workspace\Công Nghệ NET\source_CN.NET\CuoiKi\CuoiKi\source01\source01\bin\Microsoft.AspNetCore.Authorization.Policy.dll
+E:\Workspace\Công Nghệ NET\source_CN.NET\CuoiKi\CuoiKi\source01\source01\bin\Microsoft.AspNetCore.Cryptography.Internal.dll
+E:\Workspace\Công Nghệ NET\source_CN.NET\CuoiKi\CuoiKi\source01\source01\bin\Microsoft.AspNetCore.DataProtection.Abstractions.dll
+E:\Workspace\Công Nghệ NET\source_CN.NET\CuoiKi\CuoiKi\source01\source01\bin\Microsoft.AspNetCore.DataProtection.dll
+E:\Workspace\Công Nghệ NET\source_CN.NET\CuoiKi\CuoiKi\source01\source01\bin\Microsoft.AspNetCore.Hosting.Abstractions.dll
+E:\Workspace\Công Nghệ NET\source_CN.NET\CuoiKi\CuoiKi\source01\source01\bin\Microsoft.AspNetCore.Hosting.Server.Abstractions.dll
+E:\Workspace\Công Nghệ NET\source_CN.NET\CuoiKi\CuoiKi\source01\source01\bin\Microsoft.AspNetCore.Http.Abstractions.dll
+E:\Workspace\Công Nghệ NET\source_CN.NET\CuoiKi\CuoiKi\source01\source01\bin\Microsoft.AspNetCore.Http.dll
+E:\Workspace\Công Nghệ NET\source_CN.NET\CuoiKi\CuoiKi\source01\source01\bin\Microsoft.AspNetCore.Http.Extensions.dll
+E:\Workspace\Công Nghệ NET\source_CN.NET\CuoiKi\CuoiKi\source01\source01\bin\Microsoft.AspNetCore.Http.Features.dll
+E:\Workspace\Công Nghệ NET\source_CN.NET\CuoiKi\CuoiKi\source01\source01\bin\Microsoft.AspNetCore.Mvc.Abstractions.dll
+E:\Workspace\Công Nghệ NET\source_CN.NET\CuoiKi\CuoiKi\source01\source01\bin\Microsoft.AspNetCore.Mvc.Core.dll
+E:\Workspace\Công Nghệ NET\source_CN.NET\CuoiKi\CuoiKi\source01\source01\bin\Microsoft.AspNetCore.ResponseCaching.Abstractions.dll
+E:\Workspace\Công Nghệ NET\source_CN.NET\CuoiKi\CuoiKi\source01\source01\bin\Microsoft.AspNetCore.Routing.Abstractions.dll
+E:\Workspace\Công Nghệ NET\source_CN.NET\CuoiKi\CuoiKi\source01\source01\bin\Microsoft.AspNetCore.Routing.dll
+E:\Workspace\Công Nghệ NET\source_CN.NET\CuoiKi\CuoiKi\source01\source01\bin\Microsoft.AspNetCore.WebUtilities.dll
+E:\Workspace\Công Nghệ NET\source_CN.NET\CuoiKi\CuoiKi\source01\source01\bin\Microsoft.DotNet.PlatformAbstractions.dll
+E:\Workspace\Công Nghệ NET\source_CN.NET\CuoiKi\CuoiKi\source01\source01\bin\Microsoft.Extensions.Configuration.Abstractions.dll
+E:\Workspace\Công Nghệ NET\source_CN.NET\CuoiKi\CuoiKi\source01\source01\bin\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+E:\Workspace\Công Nghệ NET\source_CN.NET\CuoiKi\CuoiKi\source01\source01\bin\Microsoft.Extensions.DependencyModel.dll
+E:\Workspace\Công Nghệ NET\source_CN.NET\CuoiKi\CuoiKi\source01\source01\bin\Microsoft.Extensions.FileProviders.Abstractions.dll
+E:\Workspace\Công Nghệ NET\source_CN.NET\CuoiKi\CuoiKi\source01\source01\bin\Microsoft.Extensions.Hosting.Abstractions.dll
+E:\Workspace\Công Nghệ NET\source_CN.NET\CuoiKi\CuoiKi\source01\source01\bin\Microsoft.Extensions.Logging.Abstractions.dll
+E:\Workspace\Công Nghệ NET\source_CN.NET\CuoiKi\CuoiKi\source01\source01\bin\Microsoft.Extensions.ObjectPool.dll
+E:\Workspace\Công Nghệ NET\source_CN.NET\CuoiKi\CuoiKi\source01\source01\bin\Microsoft.Extensions.Options.dll
+E:\Workspace\Công Nghệ NET\source_CN.NET\CuoiKi\CuoiKi\source01\source01\bin\Microsoft.Extensions.Primitives.dll
+E:\Workspace\Công Nghệ NET\source_CN.NET\CuoiKi\CuoiKi\source01\source01\bin\Microsoft.Extensions.WebEncoders.dll
+E:\Workspace\Công Nghệ NET\source_CN.NET\CuoiKi\CuoiKi\source01\source01\bin\Microsoft.IdentityModel.Logging.dll
+E:\Workspace\Công Nghệ NET\source_CN.NET\CuoiKi\CuoiKi\source01\source01\bin\Microsoft.IdentityModel.Protocols.dll
+E:\Workspace\Công Nghệ NET\source_CN.NET\CuoiKi\CuoiKi\source01\source01\bin\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+E:\Workspace\Công Nghệ NET\source_CN.NET\CuoiKi\CuoiKi\source01\source01\bin\Microsoft.IdentityModel.Tokens.dll
+E:\Workspace\Công Nghệ NET\source_CN.NET\CuoiKi\CuoiKi\source01\source01\bin\Microsoft.Net.Http.Headers.dll
+E:\Workspace\Công Nghệ NET\source_CN.NET\CuoiKi\CuoiKi\source01\source01\bin\Microsoft.Owin.dll
+E:\Workspace\Công Nghệ NET\source_CN.NET\CuoiKi\CuoiKi\source01\source01\bin\Microsoft.Owin.Security.dll
+E:\Workspace\Công Nghệ NET\source_CN.NET\CuoiKi\CuoiKi\source01\source01\bin\Microsoft.Owin.Security.Facebook.dll
+E:\Workspace\Công Nghệ NET\source_CN.NET\CuoiKi\CuoiKi\source01\source01\bin\Microsoft.Win32.Registry.dll
+E:\Workspace\Công Nghệ NET\source_CN.NET\CuoiKi\CuoiKi\source01\source01\bin\Owin.dll
+E:\Workspace\Công Nghệ NET\source_CN.NET\CuoiKi\CuoiKi\source01\source01\bin\System.Buffers.dll
+E:\Workspace\Công Nghệ NET\source_CN.NET\CuoiKi\CuoiKi\source01\source01\bin\System.Diagnostics.DiagnosticSource.dll
+E:\Workspace\Công Nghệ NET\source_CN.NET\CuoiKi\CuoiKi\source01\source01\bin\System.IdentityModel.Tokens.Jwt.dll
+E:\Workspace\Công Nghệ NET\source_CN.NET\CuoiKi\CuoiKi\source01\source01\bin\System.Runtime.CompilerServices.Unsafe.dll
+E:\Workspace\Công Nghệ NET\source_CN.NET\CuoiKi\CuoiKi\source01\source01\bin\System.Security.AccessControl.dll
+E:\Workspace\Công Nghệ NET\source_CN.NET\CuoiKi\CuoiKi\source01\source01\bin\System.Security.Cryptography.Xml.dll
+E:\Workspace\Công Nghệ NET\source_CN.NET\CuoiKi\CuoiKi\source01\source01\bin\System.Security.Principal.Windows.dll
+E:\Workspace\Công Nghệ NET\source_CN.NET\CuoiKi\CuoiKi\source01\source01\bin\System.Text.Encodings.Web.dll
+E:\Workspace\Công Nghệ NET\source_CN.NET\CuoiKi\CuoiKi\source01\source01\bin\Vse.Web.Serialization.dll
+E:\Workspace\Công Nghệ NET\source_CN.NET\CuoiKi\CuoiKi\source01\source01\bin\Google.Apis.pdb
+E:\Workspace\Công Nghệ NET\source_CN.NET\CuoiKi\CuoiKi\source01\source01\bin\Google.Apis.xml
+E:\Workspace\Công Nghệ NET\source_CN.NET\CuoiKi\CuoiKi\source01\source01\bin\Google.Apis.Auth.pdb
+E:\Workspace\Công Nghệ NET\source_CN.NET\CuoiKi\CuoiKi\source01\source01\bin\Google.Apis.Auth.xml
+E:\Workspace\Công Nghệ NET\source_CN.NET\CuoiKi\CuoiKi\source01\source01\bin\Google.Apis.Auth.AspNetCore.pdb
+E:\Workspace\Công Nghệ NET\source_CN.NET\CuoiKi\CuoiKi\source01\source01\bin\Google.Apis.Auth.AspNetCore.xml
+E:\Workspace\Công Nghệ NET\source_CN.NET\CuoiKi\CuoiKi\source01\source01\bin\Google.Apis.Core.pdb
+E:\Workspace\Công Nghệ NET\source_CN.NET\CuoiKi\CuoiKi\source01\source01\bin\Google.Apis.Core.xml
+E:\Workspace\Công Nghệ NET\source_CN.NET\CuoiKi\CuoiKi\source01\source01\bin\Microsoft.AspNetCore.Authentication.xml
+E:\Workspace\Công Nghệ NET\source_CN.NET\CuoiKi\CuoiKi\source01\source01\bin\Microsoft.AspNetCore.Authentication.Abstractions.xml
+E:\Workspace\Công Nghệ NET\source_CN.NET\CuoiKi\CuoiKi\source01\source01\bin\Microsoft.AspNetCore.Authentication.Core.xml
+E:\Workspace\Công Nghệ NET\source_CN.NET\CuoiKi\CuoiKi\source01\source01\bin\Microsoft.AspNetCore.Authentication.OAuth.xml
+E:\Workspace\Công Nghệ NET\source_CN.NET\CuoiKi\CuoiKi\source01\source01\bin\Microsoft.AspNetCore.Authentication.OpenIdConnect.xml
+E:\Workspace\Công Nghệ NET\source_CN.NET\CuoiKi\CuoiKi\source01\source01\bin\Microsoft.AspNetCore.Authorization.xml
+E:\Workspace\Công Nghệ NET\source_CN.NET\CuoiKi\CuoiKi\source01\source01\bin\Microsoft.AspNetCore.Authorization.Policy.xml
+E:\Workspace\Công Nghệ NET\source_CN.NET\CuoiKi\CuoiKi\source01\source01\bin\Microsoft.AspNetCore.Cryptography.Internal.xml
+E:\Workspace\Công Nghệ NET\source_CN.NET\CuoiKi\CuoiKi\source01\source01\bin\Microsoft.AspNetCore.DataProtection.xml
+E:\Workspace\Công Nghệ NET\source_CN.NET\CuoiKi\CuoiKi\source01\source01\bin\Microsoft.AspNetCore.DataProtection.Abstractions.xml
+E:\Workspace\Công Nghệ NET\source_CN.NET\CuoiKi\CuoiKi\source01\source01\bin\Microsoft.AspNetCore.Hosting.Abstractions.xml
+E:\Workspace\Công Nghệ NET\source_CN.NET\CuoiKi\CuoiKi\source01\source01\bin\Microsoft.AspNetCore.Hosting.Server.Abstractions.xml
+E:\Workspace\Công Nghệ NET\source_CN.NET\CuoiKi\CuoiKi\source01\source01\bin\Microsoft.AspNetCore.Http.xml
+E:\Workspace\Công Nghệ NET\source_CN.NET\CuoiKi\CuoiKi\source01\source01\bin\Microsoft.AspNetCore.Http.Abstractions.xml
+E:\Workspace\Công Nghệ NET\source_CN.NET\CuoiKi\CuoiKi\source01\source01\bin\Microsoft.AspNetCore.Http.Extensions.xml
+E:\Workspace\Công Nghệ NET\source_CN.NET\CuoiKi\CuoiKi\source01\source01\bin\Microsoft.AspNetCore.Http.Features.xml
+E:\Workspace\Công Nghệ NET\source_CN.NET\CuoiKi\CuoiKi\source01\source01\bin\Microsoft.AspNetCore.Mvc.Abstractions.xml
+E:\Workspace\Công Nghệ NET\source_CN.NET\CuoiKi\CuoiKi\source01\source01\bin\Microsoft.AspNetCore.Mvc.Core.xml
+E:\Workspace\Công Nghệ NET\source_CN.NET\CuoiKi\CuoiKi\source01\source01\bin\Microsoft.AspNetCore.ResponseCaching.Abstractions.xml
+E:\Workspace\Công Nghệ NET\source_CN.NET\CuoiKi\CuoiKi\source01\source01\bin\Microsoft.AspNetCore.Routing.xml
+E:\Workspace\Công Nghệ NET\source_CN.NET\CuoiKi\CuoiKi\source01\source01\bin\Microsoft.AspNetCore.Routing.Abstractions.xml
+E:\Workspace\Công Nghệ NET\source_CN.NET\CuoiKi\CuoiKi\source01\source01\bin\Microsoft.AspNetCore.WebUtilities.xml
+E:\Workspace\Công Nghệ NET\source_CN.NET\CuoiKi\CuoiKi\source01\source01\bin\Microsoft.Extensions.Configuration.Abstractions.xml
+E:\Workspace\Công Nghệ NET\source_CN.NET\CuoiKi\CuoiKi\source01\source01\bin\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+E:\Workspace\Công Nghệ NET\source_CN.NET\CuoiKi\CuoiKi\source01\source01\bin\Microsoft.Extensions.FileProviders.Abstractions.xml
+E:\Workspace\Công Nghệ NET\source_CN.NET\CuoiKi\CuoiKi\source01\source01\bin\Microsoft.Extensions.Hosting.Abstractions.xml
+E:\Workspace\Công Nghệ NET\source_CN.NET\CuoiKi\CuoiKi\source01\source01\bin\Microsoft.Extensions.Logging.Abstractions.xml
+E:\Workspace\Công Nghệ NET\source_CN.NET\CuoiKi\CuoiKi\source01\source01\bin\Microsoft.Extensions.ObjectPool.xml
+E:\Workspace\Công Nghệ NET\source_CN.NET\CuoiKi\CuoiKi\source01\source01\bin\Microsoft.Extensions.Options.xml
+E:\Workspace\Công Nghệ NET\source_CN.NET\CuoiKi\CuoiKi\source01\source01\bin\Microsoft.Extensions.Primitives.xml
+E:\Workspace\Công Nghệ NET\source_CN.NET\CuoiKi\CuoiKi\source01\source01\bin\Microsoft.Extensions.WebEncoders.xml
+E:\Workspace\Công Nghệ NET\source_CN.NET\CuoiKi\CuoiKi\source01\source01\bin\Microsoft.IdentityModel.Logging.xml
+E:\Workspace\Công Nghệ NET\source_CN.NET\CuoiKi\CuoiKi\source01\source01\bin\Microsoft.IdentityModel.Protocols.xml
+E:\Workspace\Công Nghệ NET\source_CN.NET\CuoiKi\CuoiKi\source01\source01\bin\Microsoft.IdentityModel.Protocols.OpenIdConnect.xml
+E:\Workspace\Công Nghệ NET\source_CN.NET\CuoiKi\CuoiKi\source01\source01\bin\Microsoft.IdentityModel.Tokens.xml
+E:\Workspace\Công Nghệ NET\source_CN.NET\CuoiKi\CuoiKi\source01\source01\bin\Microsoft.Net.Http.Headers.xml
+E:\Workspace\Công Nghệ NET\source_CN.NET\CuoiKi\CuoiKi\source01\source01\bin\Microsoft.Owin.xml
+E:\Workspace\Công Nghệ NET\source_CN.NET\CuoiKi\CuoiKi\source01\source01\bin\Microsoft.Owin.Security.xml
+E:\Workspace\Công Nghệ NET\source_CN.NET\CuoiKi\CuoiKi\source01\source01\bin\Microsoft.Owin.Security.Facebook.xml
+E:\Workspace\Công Nghệ NET\source_CN.NET\CuoiKi\CuoiKi\source01\source01\bin\System.Buffers.xml
+E:\Workspace\Công Nghệ NET\source_CN.NET\CuoiKi\CuoiKi\source01\source01\bin\System.Diagnostics.DiagnosticSource.xml
+E:\Workspace\Công Nghệ NET\source_CN.NET\CuoiKi\CuoiKi\source01\source01\bin\System.IdentityModel.Tokens.Jwt.xml
+E:\Workspace\Công Nghệ NET\source_CN.NET\CuoiKi\CuoiKi\source01\source01\bin\System.Runtime.CompilerServices.Unsafe.xml
+E:\Workspace\Công Nghệ NET\source_CN.NET\CuoiKi\CuoiKi\source01\source01\bin\System.Text.Encodings.Web.xml
+E:\Workspace\Công Nghệ NET\source_CN.NET\CuoiKi\CuoiKi\source01\source01\bin\Vse.Web.Serialization.pdb

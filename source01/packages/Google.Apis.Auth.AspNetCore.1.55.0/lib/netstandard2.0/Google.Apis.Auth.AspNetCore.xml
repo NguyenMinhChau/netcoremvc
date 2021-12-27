@@ -1,0 +1,124 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>Google.Apis.Auth.AspNetCore</name>
+    </assembly>
+    <members>
+        <member name="T:Google.Apis.Auth.AspNetCore.GoogleAuthenticationSchemeProvider">
+            <summary>
+            Simple class to allow the authentication scheme to be injected.
+            </summary>
+        </member>
+        <member name="T:Google.Apis.Auth.AspNetCore.GoogleOpenIdConnectDefaults">
+            <summary>
+            Default values related to the Google OpenIdConnect authentication handler.
+            </summary>
+        </member>
+        <member name="F:Google.Apis.Auth.AspNetCore.GoogleOpenIdConnectDefaults.AuthenticationScheme">
+            <summary>
+            The default value used for the authentication scheme.
+            </summary>
+        </member>
+        <member name="F:Google.Apis.Auth.AspNetCore.GoogleOpenIdConnectDefaults.DisplayName">
+            <summary>
+            The default value for the display name.
+            </summary>
+        </member>
+        <member name="T:Google.Apis.Auth.AspNetCore.GoogleScopedAuthorizeAttribute">
+            <summary>
+            Specifies that the class or method that this attribute is applied to requires the specified authorization,
+            which can include the incremental addition of Google scopes.
+            </summary>
+        </member>
+        <member name="M:Google.Apis.Auth.AspNetCore.GoogleScopedAuthorizeAttribute.#ctor(System.String[])">
+            <summary>
+            Construct an instance of <see cref="T:Google.Apis.Auth.AspNetCore.GoogleScopedAuthorizeAttribute"/>.
+            </summary>
+            <param name="scopes">
+            The Google auth scopes required by the class or method to which this attribute is applied.
+            </param>
+        </member>
+        <member name="P:Google.Apis.Auth.AspNetCore.GoogleScopedAuthorizeAttribute.Scopes">
+            <summary>
+            Get or set the Google auth scopes required by the class or method to which this attribute is applied.
+            </summary>
+        </member>
+        <member name="T:Google.Apis.Auth.AspNetCore.GoogleScopedPolicyProvider">
+            <summary>
+            Construct GoogleScoped policies on the fly.
+            </summary>
+        </member>
+        <member name="T:Google.Apis.Auth.AspNetCore.IGoogleAuthProvider">
+            <summary>
+            Provides access to Google auth credentials and scopes.
+            </summary>
+        </member>
+        <member name="M:Google.Apis.Auth.AspNetCore.IGoogleAuthProvider.GetCredentialAsync(System.Nullable{System.TimeSpan},System.Threading.CancellationToken)">
+            <summary>
+            Get a <see cref="T:Google.Apis.Auth.OAuth2.GoogleCredential"/> for the current user.
+            This is a short-term non-refreshable credential; do not store it for later use.
+            </summary>
+            <param name="accessTokenRefreshWindow">
+            Optional. The duration that must be remaining on the oauth access token.
+            If not specified then will use the default of 5 minutes.
+            </param>
+            <param name="cancellationToken">Optional. Token to allow cancellation.</param>
+            <returns></returns>
+        </member>
+        <member name="M:Google.Apis.Auth.AspNetCore.IGoogleAuthProvider.GetCurrentScopesAsync">
+            <summary>
+            Get the currently authorized Google scopes.
+            </summary>
+            <returns>A list of all currently authorized Google scopes.</returns>
+        </member>
+        <member name="M:Google.Apis.Auth.AspNetCore.IGoogleAuthProvider.RequireScopesAsync(System.String[])">
+            <summary>
+            Get a suitable auth challenge if any of the requested scopes are not yet authorized.
+            </summary>
+            <param name="scopes">The required scopes.</param>
+            <returns>
+            An auth challenge if any of the requested scopes are not yet authorized;
+            a Task with a result of null otherwise.
+            </returns>
+        </member>
+        <member name="T:Microsoft.Extensions.DependencyInjection.GoogleOpenIdConnectExtensions">
+            <summary>
+            Extension methods to support Google OpenIdConnect authentication.
+            </summary>
+        </member>
+        <member name="M:Microsoft.Extensions.DependencyInjection.GoogleOpenIdConnectExtensions.AddGoogleOpenIdConnect(Microsoft.AspNetCore.Authentication.AuthenticationBuilder)">
+            <summary>
+            Add Google OpenIdConnect authentication.
+            </summary>
+            <param name="builder">The current <see cref="T:Microsoft.AspNetCore.Authentication.AuthenticationBuilder"/>.</param>
+            <returns>The current <see cref="T:Microsoft.AspNetCore.Authentication.AuthenticationBuilder"/>.</returns>
+        </member>
+        <member name="M:Microsoft.Extensions.DependencyInjection.GoogleOpenIdConnectExtensions.AddGoogleOpenIdConnect(Microsoft.AspNetCore.Authentication.AuthenticationBuilder,System.Action{Microsoft.AspNetCore.Authentication.OpenIdConnect.OpenIdConnectOptions})">
+            <summary>
+            Add Google OpenIdConnect authentication.
+            </summary>
+            <param name="builder">The current <see cref="T:Microsoft.AspNetCore.Authentication.AuthenticationBuilder"/>.</param>
+            <param name="configureOptions">Function allowing option customization.</param>
+            <returns>The current <see cref="T:Microsoft.AspNetCore.Authentication.AuthenticationBuilder"/>.</returns>
+        </member>
+        <member name="M:Microsoft.Extensions.DependencyInjection.GoogleOpenIdConnectExtensions.AddGoogleOpenIdConnect(Microsoft.AspNetCore.Authentication.AuthenticationBuilder,System.String,System.Action{Microsoft.AspNetCore.Authentication.OpenIdConnect.OpenIdConnectOptions})">
+            <summary>
+            Add Google OpenIdConnect authentication.
+            </summary>
+            <param name="builder">The current <see cref="T:Microsoft.AspNetCore.Authentication.AuthenticationBuilder"/>.</param>
+            <param name="authenticationScheme">The name of this authentication scheme.</param>
+            <param name="configureOptions">Function allowing option customization.</param>
+            <returns>The current <see cref="T:Microsoft.AspNetCore.Authentication.AuthenticationBuilder"/>.</returns>
+        </member>
+        <member name="M:Microsoft.Extensions.DependencyInjection.GoogleOpenIdConnectExtensions.AddGoogleOpenIdConnect(Microsoft.AspNetCore.Authentication.AuthenticationBuilder,System.String,System.String,System.Action{Microsoft.AspNetCore.Authentication.OpenIdConnect.OpenIdConnectOptions})">
+            <summary>
+            Add Google OpenIdConnect authentication.
+            </summary>
+            <param name="builder">The current <see cref="T:Microsoft.AspNetCore.Authentication.AuthenticationBuilder"/>.</param>
+            <param name="authenticationScheme">The name of this authentication scheme.</param>
+            <param name="displayName">The display name of this authentication scheme.</param>
+            <param name="configureOptions">Function allowing option customization.</param>
+            <returns>The current <see cref="T:Microsoft.AspNetCore.Authentication.AuthenticationBuilder"/>.</returns>
+        </member>
+    </members>
+</doc>

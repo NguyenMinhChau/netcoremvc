@@ -1,0 +1,69 @@
+﻿@model List<source01.EF.Content>
+@{
+    ViewBag.Title = "Quản Lý Nội Dung";
+    Layout = "~/Areas/Admin/Views/Shared/_Layout.cshtml";
+}
+<!-- DataTales Example -->
+<div class="card shadow mb-4">
+    <div class="card-header py-3">
+        <h6 class="m-0 font-weight-bold text-primary">Danh sách các loại sản phẩm</h6>
+    </div>
+    <div class="card-body">
+        <a href="~/Admin/Content/Create" class="btn btn-primary mb-3">Thêm mới nội dung</a>
+        <div class="table-responsive">
+            <table class="table table-bordered" id="dataTable" width="100%" cellspacing="0">
+                <thead>
+                    <tr>
+                        <th>ID</th>
+                        <th>Tên nội dung</th>
+                        <th>Tiêu đề SEO</th>
+                        <th>Mô tả nội dung</th>
+                        <th>Hình ảnh</th>
+                        <th>Ngày tạo</th>
+                        <th>Mô tả chi tiết</th>
+                        <th>Hành động</th>
+                    </tr>
+                </thead>
+                <tfoot>
+                    <tr>
+                        <th>ID</th>
+                        <th>Tên nội dung</th>
+                        <th>Tiêu đề SEO</th>
+                        <th>Mô tả nội dung</th>
+                        <th>Hình ảnh</th>
+                        <th>Ngày tạo</th>
+                        <th>Mô tả chi tiết</th>
+                        <th>Hành động</th>
+                    </tr>
+                </tfoot>
+                <tbody>
+                    @foreach (var item in Model)
+                    {
+                    <tr id="row_@item.ID">
+                        <td>@item.ID</td>
+                        <td>@item.Name</td>
+                        <td>@item.MetaTitle</td>
+                        <td style="display:-webkit-box;-webkit-box-orient:vertical;-webkit-line-clamp:3;text-overflow:ellipsis;overflow-x:auto">@item.Description</td>
+                        <td><img src="@item.Image" style="width:100%;height:50px" /></td>
+                        <td>@(item.CreatedDate.HasValue?item.CreatedDate.Value.ToString("dd/MM/yyyy"): DateTime.Now.ToString("dd/MM/yyyy"))</td>
+                        <td style="display:-webkit-box;-webkit-box-orient:vertical;-webkit-line-clamp:3;text-overflow:ellipsis;overflow-x:auto">@item.Detail</td>
+                        <td>
+                            <a href="~/Admin/Content/Edit/@item.ID">Sửa</a>
+                            |
+                            @Ajax.ActionLink("Xóa", "Delete", new { @id = item.ID }, new AjaxOptions
+                            {
+                           Confirm = "Hành động không thể khôi phục.Bạn có muốn xóa sản phẩm này?",
+                           OnComplete = "$('#row_" + @item.ID + "').remove()",
+                           HttpMethod = "Delete"
+
+                       })
+                        </td>
+                    </tr>
+                    }
+
+                </tbody>
+            </table>
+        </div>
+    </div>
+</div>
+
